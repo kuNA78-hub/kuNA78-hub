@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Advanced AI Integration & Cloud Technologies**
 - 💬 Ask me about **Web Development, Java, React, AI Projects**
 - 📫 How to reach me: **tagoreacademy@gmail.com**
-- ⚡ Fun fact: **I built 6 AI projects in 3 months during my internship**
+- ⚡ Fun fact: **I Know how to code**
 
 ---
 
