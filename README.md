@@ -53,5 +53,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagoreacademy@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuNA78-hub&show_icons=true&theme=default)
