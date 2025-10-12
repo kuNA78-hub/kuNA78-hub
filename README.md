@@ -50,6 +50,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-kumar-prasad-270b4530b)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kuNA78-hub.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagoreacademy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagoreacademy123@gmail.com)
 
 ---
