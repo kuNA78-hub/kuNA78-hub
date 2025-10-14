@@ -5,7 +5,7 @@
 ---
 
 ## About Me:
-
+[![An image of @kuna78hub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuna78hub)](https://holopin.io/@kuna78hub)
 - 🔭 I'm currently working on **AI Projects & Full-Stack Development**
 - 🌱 I'm currently learning **Advanced AI Integration & Cloud Technologies**
 - 💬 Ask me about **Web Development, Java, React, AI Projects**
@@ -53,5 +53,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagoreacademy123@gmail.com)
 
 ---
-
-[![An image of @kuna78hub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuna78hub)](https://holopin.io/@kuna78hub)
