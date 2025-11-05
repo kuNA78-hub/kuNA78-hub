@@ -5,7 +5,31 @@
 ---
 
 ## About Me:
+## 🎖️ My Hacktoberfest 2025 Badges
+
+<div align="center">
+
+<!-- Row 1: Level 0–2 -->
+<a href="https://holopin.io/@kuna78hub" title="Hacktoberfest 2025 Level 0">
+  <img src="https://github.com/user-attachments/assets/d6dab0ee-66db-48db-ae86-19a8a8fedf76" width="150" />
+</a>
+<a href="https://holopin.io/@kuna78hub" title="Hacktoberfest 2025 Level 1">
+  <img src="https://github.com/user-attachments/assets/6b8c523e-c535-4c3d-9a87-cf5e9f9be110" width="150" />
+</a>
+<a href="https://holopin.io/@kuna78hub" title="Hacktoberfest 2025 Level 2">
+  <img src="https://github.com/user-attachments/assets/d49c8b09-4a7d-4a52-93b7-6c70e1f873ce" width="150" />
+</a>
+
+<br>
+
+<!-- Row 2: Level 3 -->
 [![An image of @kuna78hub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuna78hub)](https://holopin.io/@kuna78hub)
+
+</div>
+
+*(My full Hacktoberfest 2025 journey — from Level 0 registration to Level 3 completion!)*  
+
+
 - 🔭 I'm currently working on **AI Projects & Full-Stack Development**
 - 🌱 I'm currently learning **Advanced AI Integration & Cloud Technologies**
 - 💬 Ask me about **Web Development, Java, React, AI Projects**
